@@ -1,0 +1,115 @@
+html {
+	background-repeat: src="https://i.pinimg.com/474x/af/b1/b2/afb1b2c9acba55de3f1762fb2e5a5ad6--tiles-texture-brick-texture.jpg";
+	font-family: Lato, Roboto, sans-serif;
+}
+.logo {
+	padding:10px;
+}
+.korpa {
+	height:30px;
+	width: 30px;
+}
+header {
+	background-color: black;
+	height: 60px;
+}
+nav {
+	float:right;
+	font-size: 15px;
+	text-transform: uppercase;
+	padding:5px 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+	padding: 10px 15px 15px 10px;
+    display: inline;
+    color: #fff;
+    text-decoration-style: none;
+    font-size:15px;
+    font-weight: bolder;
+}
+a {
+	color: #fff;
+}
+a:link {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+a:hover {
+	color:#c61518;
+}
+body {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/f6/36/af/f636afb68f191106428b4550a46d10ca.jpg);
+    background-repeat: repeat;
+	margin-left: 20em;
+	margin-right:20em;
+}
+.main {
+	background-image: none;
+	background: solid white;
+}
+.content {
+	background-image: none;
+	background: #fff;
+	padding-left: 40px; 
+	padding-top: 40px; 
+	padding-right: 40px; 
+	padding-bottom: 40px; 
+	margin: 0 auto;
+	max-width: 600px;
+	position: relative;
+	color:#747474;
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    -webkit-margin-before: 0.5em;
+    -webkit-margin-after: 0.5em;
+    -webkit-margin-start: auto;
+    -webkit-margin-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+p {
+    display: block;
+    text-align: justify;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    max-width:300px;
+}
+.shirt {
+	display: block;
+    border-style: none;
+    vertical-align: top;
+    max-width: 100%;
+    height: auto;
+}
+.first {
+	display:inline-block;
+}
+.second {
+	display:inline-block;
+}
+#red {
+	color: #e01818;
+	font-size:12px;
+	font-style: : italic;
+}
+table {
+	margin:auto;
+    border-collapse: collapse;
+    border-spacing: 0; 
+	width:520px;
+}
+tr, td {
+	text-align:center;
+	height:25px;
+}
